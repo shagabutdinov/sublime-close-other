@@ -1,6 +1,7 @@
 # CloseOther
 
-Provides several ways for closing files.
+Provides several ways for closing files. Based on stackoverlow reply:
+http://stackoverflow.com/questions/15379860/close-others-command-shortcut-in-sublime-text-2
 
 
 ### Demo
