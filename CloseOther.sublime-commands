@@ -1,0 +1,13 @@
+[
+
+  {
+    "caption": "CloseOther: Close others",
+    "command": "close_others"
+  },
+
+  {
+    "caption": "CloseOther: Close to right",
+    "command": "close_to_right"
+  },
+
+]

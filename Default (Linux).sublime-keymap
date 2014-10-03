@@ -1,0 +1,13 @@
+[
+
+  {
+    "keys": ["ctrl+u", "l"],
+    "command": "close_others"
+  },
+
+  {
+    "keys": ["ctrl+u", "ctrl+;"],
+    "command": "close_to_right"
+  },
+
+]
