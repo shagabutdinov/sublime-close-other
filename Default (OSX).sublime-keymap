@@ -2,12 +2,18 @@
 
   {
     "keys": ["ctrl+u", "l"],
-    "command": "close_others"
+    "command": "close_others",
+    "context": [
+      {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true},
+    ]
   },
 
   {
     "keys": ["ctrl+u", "ctrl+;"],
-    "command": "close_to_right"
+    "command": "close_to_right",
+    "context": [
+      {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true},
+    ]
   },
 
 ]

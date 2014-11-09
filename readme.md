@@ -6,7 +6,7 @@ http://stackoverflow.com/questions/15379860/close-others-command-shortcut-in-sub
 
 ### Demo
 
-![Demo](https://raw.github.com/shagabutdinov/sublime-close-other/master/demo/demo.gif "Demo")
+![Demo](https://github.com/shagabutdinov/sublime-enhanced-demos/raw/master/close_other.gif "Demo")
 
 
 ### Features
@@ -37,3 +37,8 @@ Just hit hotkeys to close others or close others to right of current view.
 |----------------|--------------------|----------------------------|
 | Close others   | ctrl+u, l          | CloseOther: Close others   |
 | Close to right | ctrl+u, ctrl+;     | CloseOther: Close to right |
+
+
+### Dependencies
+
+* [CloseOther](https://github.com/shagabutdinov/sublime-close-other)
