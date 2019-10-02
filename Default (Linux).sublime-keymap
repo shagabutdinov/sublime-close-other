@@ -1,7 +1,7 @@
 [
 
   {
-    "keys": ["ctrl+u", "l"],
+    "keys": ["ctrl+u", "k"],
     "command": "close_others",
     "context": [
       {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true},
@@ -9,7 +9,7 @@
   },
 
   {
-    "keys": ["ctrl+u", "ctrl+;"],
+    "keys": ["ctrl+u", "ctrl+l"],
     "command": "close_to_right",
     "context": [
       {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true},
